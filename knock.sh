@@ -1,0 +1,1 @@
+nmap -Pn -p 1-65535 localhost
